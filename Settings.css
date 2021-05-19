@@ -1,0 +1,417 @@
+.account{
+    padding-right: 8px;
+    display: inline;
+    font-size: x-small;
+    color: black;
+
+    
+}
+.name{
+    font-size: small;
+    margin-right: 0.5cm;
+    color: black;
+    
+    
+}
+.MuiAppBar-colorPrimary {
+    color: #fff;
+    background-color: #cfd2e1;
+}
+.grow{
+    color: #000;
+}
+.image{
+    
+    position:relative;
+    width: 2%;
+    height: auto;
+    size: 1cm;
+    max-width: 3cm;
+
+    
+
+}
+.sidebar{
+    height: 15px;
+    top: 5px;
+}
+.box{
+    padding-bottom: 30px;
+    height: 5px;
+    width: 50px;
+    
+}
+.web{
+    height: 5cm;
+    color:#02C2FC;
+    width: 5cm;
+    padding-top: 20px;
+    position: relative;
+    padding-left: 10px;
+}
+.edit{
+    color:#02C2FC;
+    
+    font: bold;
+    font-style: inherit;
+    font-family:   ' Bold Sitka Small';
+}
+.editbox{
+    border: 1px solid #000000 ;
+    color: black;
+    align-items: center;
+    
+    
+    position: relative;
+    width: 5cm;
+    left: 10cm;
+    height: 22px;
+    font-size: 13PX;
+    bottom: 60px;
+    font-weight: normal;
+
+    
+    
+
+
+
+}
+.username{
+    color: black;
+    align-items: center;
+    
+    
+    position: relative;
+    width: 4cm;
+    left: 10cm;
+    font-size: 13px;
+    bottom: 60px;
+    margin-top: 15px;
+    
+
+}
+.img{
+    width: 150px;
+    height: 3cm;
+    
+    position: relative;
+    margin-top: 15px;
+    
+    
+    
+}
+.upload{
+    border: 1px solid black;
+    width: 2cm;
+    height: 20px;
+    
+    border-radius: 50px;
+    font-size: 13px;
+   position: relative;
+   top: 1cm;
+   right: 4cm;
+   
+    
+    
+}
+.cancel{
+    border: 1px solid black;
+    width: 2cm;
+    height: 20px;
+    
+    border-radius: 50px;
+    font-size: 13px;
+   
+    margin-top: 1cm;
+    position: relative;
+    
+    top: 1cm;
+    right: 3.5cm;
+   
+    
+    
+    
+
+}
+
+.logo{
+    width: 4cm;
+    height: 2cm;
+}
+.save{
+    border: 1px solid black;
+    width: 2cm;
+    height: 20px;
+    position: relative;
+
+    font-size: 13px;
+    border-radius: 2mm;
+    color: white;
+    bottom:3.5cm;
+    left: 15cm;
+    background-color: blue;
+   
+}
+
+.canceltwo{
+    border: 1px solid black;
+    width: 2cm;
+    height: 20px;
+    position: relative;
+    border-radius: 2mm;
+    font-size: 13px;
+    
+    color: black;
+    bottom:3.5cm;
+    left: 16cm;
+    background-color: gray;
+   
+
+}
+.boxone{
+    border: 2px solid #02C2FC;
+    border-radius: 50px;
+    height: 30px;
+    
+    width: 5.5cm;
+    margin-left: 10px;
+    margin-top: 25px; 
+    position: relative;
+    bottom: 1cm;
+   
+}
+.boxone1{
+    border: 1px solid #02C2FC;
+    border-radius: 50px;
+    height: 30px;
+    
+    width: 5.5cm;
+    margin-left: 10px;
+    margin-top: 25px; 
+    position: relative;
+    bottom: 1cm;
+    background-image: linear-gradient(to right, #4B1DE5 , #09B2FA);
+}
+.general{
+    position: relative;
+    left: 1.8cm;
+    top: 5px;
+    font-family: 'Open Sans'
+}
+.general1{
+    position: relative;
+    left: 1.8cm;
+    top: 5px;
+    font-family: 'Open Sans';
+    color:white ;
+    
+    
+}
+.webdev{
+    position: relative;
+    left: 1cm;
+    top: 5px;
+    font-family: 'Open Sans'
+
+}
+
+.pwd{
+    position: relative;
+    top: 8px;
+}
+.manee{
+    position: relative;
+    top: 7px;
+    
+}
+.icon{
+    position: relative;
+    margin-left: 18cm;
+    bottom: 3.5cm;
+    display: inline;
+}
+.toggle{
+    color: black;
+    position: relative;
+    left: 15.5cm;
+    background-color:  #BBB5B5;
+    background-color:  #BBB5B5;
+    border-color: black;
+    border: 1px solid black ;
+    
+}
+.report{
+    position: relative;
+    color: #B5B4B4;
+    border: 1px solid #B5B4B4;
+    width: 21cm;
+
+    height: 4cm;
+   top: 0.5cm;
+    box-shadow: 2px #B5B4B4;
+    border-radius: 10px;
+}
+.report2{
+    position: relative;
+    color: #B5B4B4;
+    border: 1px solid #B5B4B4;
+    width: 21cm;
+
+    height: 4cm;
+    top: 2cm;
+    box-shadow: 2px #B5B4B4;
+    border-radius: 10px;
+    margin-top: 1cm;
+}
+.view{
+    position: relative;
+    color: #02C2FC;
+    margin-left: 8cm;
+    font-family: Arial;
+    display: flex;
+    
+}
+.view1{
+    position: relative;
+    color: #02C2FC; 
+   
+    left: 3cm;
+    font-family: Arial;
+ 
+    
+    
+    
+    
+    
+    
+}
+.top{
+    border: 1px solid #B5B4B4;
+    height: 30px;
+    position: relative;
+    bottom: 24px;
+    border-radius: 10px;
+    right: 25px;
+    width: 22.4cm;
+   
+    display: flex;
+    
+    
+}
+.addteam{
+    color:#02C2FC ;
+    font-size: 13px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    left: 2cm;
+    position: relative;
+    top: 0.2cm;
+}
+.views{
+    position: relative;
+    display: flex;
+}
+.underline{
+   
+    position: relative;
+    color: #02C2FC;
+    width: 6cm;
+    background-color:#02C2FC ;
+    right: 2cm;
+    border-color: #02C2FC;
+    
+}
+.account1{
+    color: black;
+    position: relative;
+    top: 0.7cm;
+}
+.name1{
+    color: black;
+    position: relative;
+   
+    left: 0.8cm;
+}
+.description{
+    color: black;
+    font-size: 15px;
+    position: relative;
+    top: 1.3cm;
+    font-weight: 500;
+}
+.title{
+    color: black;
+    font-size: 15px;
+    position: relative;
+    top: 1cm;
+    font-weight: 500;
+}
+.titlebox{
+    position: relative;
+border: 1px solid #02C2FC ;
+border-radius: 5px;
+width: 8cm;
+height: 0.8cm;
+top: 1.1cm;
+}
+.descbox{
+    position: relative;
+    border: 1px solid #02C2FC ;
+    border-radius: 5px;
+    width: 21cm;
+    height: 3cm;
+    top: 1.5cm;
+}
+.descbox2{
+    position: relative;
+    border: 1px solid #02C2FC ;
+    border-radius: 5px;
+    width: 21cm;
+    height: 1cm;
+    top: 2cm;
+}
+.date{
+    border: 1px solid #707070;
+    position: relative;
+    width: 6cm;
+    height: 0.8cm;
+    left: 7cm;
+    bottom: 0.4cm;
+    background: none;
+    background-color: white;
+    border-radius: 50px;
+    bottom: 3cm;
+
+}
+.date1{
+    color: black;
+    position: relative;
+    left: 1cm;
+   
+    
+    
+}
+.project{
+    color: black;
+    font-size: medium;
+    font-weight: bold;
+    position: relative;
+    left: 0.2cm;
+    top: 0.5cm;
+
+
+}
+.descriptn{
+    color: black;
+    font-size: medium;
+    position: relative;
+    top: 0.5cm;
+    left: 0.2cm;
+
+}
+.srcnshot{
+    width: 3cm;
+    height: 1.5cm;
+    position: relative;
+    left: 0.2cm;
+    top: 0.5cm;
+}

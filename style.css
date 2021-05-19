@@ -1,0 +1,240 @@
+.popup {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    background-color: rgba(0,0,0, 0.5);
+  }
+  .punch {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    background-color: rgba(0,0,0, 0.5);
+  }
+  .popup_inner {
+    position: absolute;
+    left: 35%;
+    right: 35%;
+    top: 10%;
+    bottom: 32%;
+    margin: auto;
+    border-radius: 20px;
+    background: white;
+  }
+  .punch_inner {
+    position: absolute;
+    left: 64%;
+    right: 13%;
+    top: 20%;
+    bottom:10%;
+    margin: auto;
+    border-radius: 2px;
+    background: white;
+  }
+  .btn{
+    border-radius: 40%;
+    color:  rgb(13, 7, 68);
+    background-color: rgb(196, 228, 227);
+  }
+  .popup_inner2 {
+    position: absolute;
+    left: 35%;
+    right: 30%;
+    top: 10%;
+    bottom: 32%;
+    margin: auto;
+    border-radius: 20px;
+    background: white;
+  }
+  .profilepic {
+    position: absolute;
+    left: 35%;
+    right: 35%;
+    top: 10%;
+    bottom: 32%;
+  }
+  .root { 
+    position: relative;
+    background: linear-gradient(45deg, #3742BE 30%, #02C2FC 90%);
+    border: none;
+    border-radius: 30px !important;
+    color: white !important;
+    height: 38;
+    width: 200px;
+    top: 5rem;
+    padding: 0 30px;
+  }
+  .root_edge {
+    color: #02C2FC !important;
+    border-color: #02c2fc !important;
+    border-radius: 80px !important;
+    position: absolute;
+    background:  #3742BE;
+    border: 3px;
+    height: 38;
+    width: 200px;
+    top: 5rem;
+    padding: 0 30px;
+  }
+  .root1 {
+    background: linear-gradient(45deg, #3742BE 30%, #02C2FC 90%);
+    border: none !important;
+    border-radius: 30px !important;
+    box-shadow: 0 3px 5px 2px rgba(255, 105, 135, .3);
+    color: white !important;
+    height: 38;
+    width: 150px;
+    top: 5rem;
+    padding: 0 30px;
+  }
+  .root2 {
+    position: absolute;
+    background:  #3742BE;
+    border: 3px;
+    border-color: #02C2FC !important ;
+    border-radius: 30px !important;
+    color: #02c2fc !important;
+    height: 38;
+    width: 150px;
+    top: 5rem;
+    padding: 0 30px;
+  }
+  .date_div {
+    position:relative;
+    border-radius: 10px;
+    left: 58rem;
+    bottom: 30rem;
+    height: 560px;
+    width: 340px;
+    border: rgb(13, 7, 68);
+    border-color: darkred;
+    background-color: rgb(243, 246, 247);
+    border: 1px;
+    box-shadow: 2px 5px 4px 5px #888888 ;
+  }
+  .date_inside {
+    position: relative;
+    left: 1rem;
+  }
+  .punching_div{
+        border-radius: 10px;
+        position: absolute;
+        border: 1px;
+        box-shadow: 2px 5px 4px 5px #888888 ;
+        align-content: center;
+        align-items: center;
+        text-align: center;
+        color: rgb(13, 7, 68);
+        height: 200px;
+        width: 500px;
+        bottom: 3rem;
+        left: 25rem;
+        background-color: rgb(243, 246, 247);
+  }
+  .profile_card{
+    position: absolute;
+    border-color: darkred;
+    border-radius: '30%';
+    top: 15rem;
+    height:150px;
+    width: 300px;
+    left: 30rem;
+    border: 1px;
+    box-shadow: 2px 5px 4px 5px #888888 ;
+  }
+  .profile_img{
+    position: absolute;
+    border-color: darkred;
+    border-radius: '30%';
+    top: 15rem;
+    left: 30% ;
+  }
+  .report_status{
+    position: absolute;
+    border-color: darkred;
+    border-radius: '30%';
+    top: 15rem;
+    height:170px;
+    width: 300px;
+    right: 20%;
+    border: 1px;
+    box-shadow: 2px 5px 4px 5px #888888 ;
+  }
+  .event_div{
+    position: absolute;
+    height:250px;
+    width: 560px;
+    border-color: darkred;
+    border-radius: '30%';
+    border: 1px;
+    box-shadow: 2px 5px 4px 5px #888888 ;
+    bottom: 10%;
+    left: 30%;
+  }
+  .event_edit{
+    position:absolute;
+    top: 20rem;
+    right: 30rem;
+  }
+  .main_div2{
+    position: absolute;
+    left: 30%;
+    top: 20%;
+  }
+  .main_divs{
+    position:absolute;
+    height: 500px;
+    width:900px;
+  }
+  .log_back{
+    position: absolute;
+    color: cornsilk;
+    text-align: center;
+    font-size: 30 ;
+    left: -20%;
+    height: 500px;
+    width: 400px;
+    background-color: #52bed1;
+  }
+  .login_main{
+    position: absolute;
+    text-align: center;
+    left: 24%;
+    height: 500px;
+    width: 400px;
+    background-color: rgba(209, 230, 230, 0.719);
+  }
+  .side_bar{
+    border-radius: 10px;
+    position: relative;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    left: 3rem;
+    top: 3rem;
+    border: 1px;
+    box-shadow: 2px 5px 4px 5px #888888 ;
+    background-color: rgb(243, 246, 247);
+    height: 500px;
+    width: 300px;
+  }
+  .date_card {
+    border: 1px;
+    border-radius: 4px;
+    box-shadow: 1px 3px 2px 3px #d3cece ;
+    width: 300px;
+    position: relative;
+    margin-top: 10px;
+    
+  }
+
+
